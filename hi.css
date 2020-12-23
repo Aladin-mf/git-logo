@@ -10,7 +10,7 @@ body {
   font-size: 62.5%;
 }
 h1{
-  margin-top: 0px;
+  margin-top: 200px;
   font-size: 2rem;
   color: rgb(142, 173, 84);
 }
@@ -32,6 +32,7 @@ h1{
   position: relative;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
+    margin-bottom: 200px;
 }
 
 .center .logo .logo1 {
